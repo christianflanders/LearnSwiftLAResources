@@ -28,6 +28,7 @@ Learning resources for the Learn Swift LA Meetup Group
 
 ## BLOGS:
 * [Ray Wenderlich](https://www.raywenderlich.com)
+* [Natasha the Robot](https://www.natashatherobot.com)
 
 
 
@@ -36,8 +37,11 @@ Learning resources for the Learn Swift LA Meetup Group
 * [iOS Interview Guide by Alex Bush](https://gumroad.com/l/iGjHx)
 
 ## PODCASTS:
+* [SwiftCoders](https://swiftcoders.podbean.com)
 
 ## Email Newsletters
+* [Natasha the Robot's Swift Newsletter](https://swiftnews.curated.co)
+* [iOS Dev Weekly by Dave Verwer](https://iosdevweekly.com)
 
 
 ## OTHER:
