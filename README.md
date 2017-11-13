@@ -33,10 +33,11 @@ Learning resources for the Learn Swift LA Meetup Group
 
 ## ALGORITHMS/JOB SEARCH:
 * [Ray Wenderlich Algorithms Club: Different Algorithms implimented in Swift](https://github.com/raywenderlich/swift-algorithm-club) 
-
+* [iOS Interview Guide by Alex Bush](https://gumroad.com/l/iGjHx)
 
 ## PODCASTS:
 
+## Email Newsletters
 
 
 ## OTHER:
