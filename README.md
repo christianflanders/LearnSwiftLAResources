@@ -5,6 +5,9 @@ Learning resources for the Learn Swift LA Meetup Group
 ## ONLINE COURSES: FREE
 * [CS50-Harvards Computer Science Course. No information on Swift or iOS, but a fantastic class on the basics of computer science.](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) 
 * [Stanford Swift- A little more on the advanced side, not for beginners but one of the best resources out there. ](https://web.stanford.edu/class/cs193p/cgi-bin/drupal/)
+* https://www.apple.com/everyone-can-code/
+
+
 
 
 ## ONLINE COURSES: PAID
