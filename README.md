@@ -40,6 +40,8 @@ Learning resources for the Learn Swift LA Meetup Group
 
 ## PODCASTS:
 * [SwiftCoders](https://swiftcoders.podbean.com)
+* [Fatal Error](https://fatalerror.fm)
+* [Swift Unwrapped)(https://spec.fm/podcasts/swift-unwrapped)
 
 ## Email Newsletters
 * [Natasha the Robot's Swift Newsletter](https://swiftnews.curated.co)
